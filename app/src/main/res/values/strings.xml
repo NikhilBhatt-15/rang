@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Rang</string>
+    <string name="channel_name">Battery color bar</string>
+    <string name="widget_desc">Big colored battery</string>
+</resources>
